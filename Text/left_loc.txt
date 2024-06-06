@@ -1,0 +1,8 @@
+no lesion in left lung
+upper left lung
+middle left lung
+lower left lung
+upper lower left lung
+upper middle left lung
+middle lower left lung
+upper middle lower left lung
