@@ -1,5 +1,5 @@
 # STPNet
-STPNet: Scale-aware Text Prompt Network for Medical Image Segmentation
+STPNet: Scale-aware Text Prompt Network for Medical Image Segmentation. [Arxiv](https://arxiv.org/abs/2504.01561)
 
 ### Requirements
 This repository is based on PyTorch 1.12.1, CUDA 11.4 and Python 3.8.18; All experiments in our paper were conducted on a single NVIDIA A100 GPU.
@@ -19,13 +19,13 @@ The original data can be downloaded in following links:
 
 * Kvasir-SEG Dataset - [Link (Original)](https://datasets.simula.no/downloads/kvasir-seg.zip)
 
-  *Note: The text annotation of COVID-Xray train datasets [download link](https://1drv.ms/x/s!AihndoV8PhTDguFoqa9YVfXdadWtsA?e=YpQ1pL).*
+ *(Note: The text annotation of COVID-Xray train and val datasets [download link](https://1drv.ms/x/s!AihndoV8PhTDkm5jsTw5dX_RpuRr?e=uaZq6W).
+  The partition of train set and val set of COVID-Xray dataset [download link](https://1drv.ms/f/c/c3143e7c85766728/QihndoV8PhQggMO2rwAAAAAADo5kj33mUee33g).
+  The text annotation of COVID-Xray test dataset [download link](https://1drv.ms/x/s!AihndoV8PhTDkj1vvvLt2jDCHqiM?e=954uDF).)*
   
-  *The text annotation of COVID-Xray val datasets [download link](https://1drv.ms/x/s!AihndoV8PhTDguFmGZlojiUgiUK_Bw?e=dCt72d).*
-  
-  *The text annotation of COVID-Xray test dataset [download link](https://1drv.ms/x/s!AihndoV8PhTDguFndDhGZ_w09BwQCw?e=1CrgtK).*
-  
-  *(Note: The text annotation of MosMedData+ dataset will be released in the future. And you can email to me for the datasets)*
+*(Note: The text annotation of COVID-CT train dataset [download link](https://1drv.ms/x/s!AihndoV8PhTDguIIKCRfYB9Z0NL8Dw?e=8rj6rY).
+The text annotation of COVID-CT val dataset [download link](https://1drv.ms/x/c/c3143e7c85766728/QShndoV8PhQggMMGsQAAAAAAtAgZiRQFYfsAjw).
+The text annotation of COVID-CT test dataset [download link](https://1drv.ms/x/c/c3143e7c85766728/QShndoV8PhQggMMHsQAAAAAAdHkwXMxGlgU9Tg).)*
 
 #### 1.2. Format Preparation
 
