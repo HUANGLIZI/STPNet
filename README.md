@@ -1,5 +1,5 @@
 # STPNet
-STPNet: Scale-aware Text Prompt Network for Medical Image Segmentation. [Arxiv](https://arxiv.org/abs/2504.01561) [IEEE Xplore](https://ieeexplore.ieee.org/document/11015682) (IEEE TIP 2025)
+STPNet: Scale-aware Text Prompt Network for Medical Image Segmentation. [Arxiv](https://arxiv.org/abs/2504.01561), [IEEE Xplore](https://ieeexplore.ieee.org/document/11015682) (IEEE TIP 2025)
 
 ### Requirements
 This repository is based on PyTorch 1.12.1, CUDA 11.4 and Python 3.8.18; All experiments in our paper were conducted on a single NVIDIA A100 GPU.
