@@ -80,7 +80,7 @@ ttach==0.0.3
 typing==3.6.6
 typing_extensions==4.8.0
 tzdata==2024.1
-urllib3==1.26.13
+urllib3==2.7.0
 wget==3.2
 wrapt==1.16.0
 zipp==3.17.0
