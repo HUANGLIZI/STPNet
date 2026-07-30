@@ -75,7 +75,7 @@ torchaudio==0.12.1+cu113
 torchinfo==1.8.0
 torchvision==0.13.1+cu113
 tqdm==4.66.2
-transformers==4.36.2
+transformers==5.5.0
 ttach==0.0.3
 typing==3.6.6
 typing_extensions==4.8.0
